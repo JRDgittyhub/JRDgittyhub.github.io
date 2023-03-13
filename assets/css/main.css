@@ -6,7 +6,6 @@
 	html5up.net | @ajlkn
 	Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 */
-
 html, body, div, span, applet, object,
 iframe, h1, h2, h3, h4, h5, h6, p, blockquote,
 pre, a, abbr, acronym, address, big, cite,
@@ -3710,7 +3709,7 @@ input, select, textarea {
 		@media screen and (max-width: 1280px) {
 
 			#footer {
-				padding: 4em 4em 2em 4em ;
+				padding: 4em 2em 2em 4em ;
 			}
 
 		}
@@ -3783,3 +3782,11 @@ input, select, textarea {
 			}
 
 		}
+a {
+   text-decoration: none !important;
+   border-bottom: none !important;
+   background-image: none !important;
+}
+section {
+  color: black;
+}
