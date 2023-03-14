@@ -3001,7 +3001,7 @@ input, select, textarea {
 			margin-left: 4em;
 			padding: 0.65em;
 			border-radius: 100%;
-			border: solid 1px;
+			border: solid 0px;
 		}
 
 			.spotlight .image img {
@@ -3580,7 +3580,7 @@ input, select, textarea {
 		}
 
 		#main > .main {
-			padding: 5em 5em 3em 5em ;
+			padding: 5em 5em 0em 5em ;
 			border-top: solid 1px #dddddd;
 		}
 
